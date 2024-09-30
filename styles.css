@@ -1,3 +1,10 @@
 *, *::before, *::after {
     font-family: "Open Sans", system-ui;
 }
+
+.card {
+    background: white;
+    border: 1px solid #777;
+    padding: 1rem;
+    border-radius: .25rem;
+}
